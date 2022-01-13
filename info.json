@@ -1,0 +1,20 @@
+{
+    "name": "David Gales",
+    "website": "https://stuntmccartney.com",
+    "linkedin": "https://www.linkedin.com/in/stuntmccartney",
+    "github": "shermscissors",
+    "email": "christian.gales09@gmail.com",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "Drupal"
+    ]
+}
